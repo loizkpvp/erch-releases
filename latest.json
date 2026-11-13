@@ -1,11 +1,11 @@
 {
-  "version": "0.2.2",
-  "notes": "Плашка обновления теперь показывает, что нового в версии. Новые версии собираются, подписываются и выкладываются на GitHub сами.",
-  "pub_date": "2026-11-13T11:24:24Z",
+  "version": "0.2.3",
+  "notes": "Новая иконка: чёткая в панели задач, в проводнике и на рабочем столе.",
+  "pub_date": "2026-11-13T14:23:49Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZE1oUG5CcWo2NG9yOTdEUXNYTlVQYWozcy9saVNzWSs0dGlRam1uZmNHRCtzcVQxZXZ5ZkkyZFdJdlpGZTVGUHR5VHRSM0hMUlJUQy9PKzlIZkFnOEE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTY5MDYwCWZpbGU6RXJjaF8wLjIuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjIKWUhKN0JYRXZEbUt1Z2dtSmJIUE9iWnVXU3FCTXBzMDhodDVVcW5mVERERXRWMXlyZWc2QmR6dU94TGZYZkdSVTc4K1NYWk1xVlBXQUNld1BDWmVzRFE9PQo=",
-      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.2/Erch_0.2.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZEtpS0d1VUdsVk1KRVJjZWxZMERMV2ZzbktuekFYTmxKM0lGRmltc2hLa0djVHJzay92RnVvVDBNdkl5a0I4eTFaWWpjeXd6clJHZHJpaEtHaUptMFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTc5ODI1CWZpbGU6RXJjaF8wLjIuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjMKSlpCc0pvRDNrL2EwZVhEZ1VXRWhkcFVPRy9QZ2tTMy9OdzhOMjd1ZUhQTDNwV1RsYkFKdExFUFBHektlcGRxMU5SZEsyVHdQL0oyTHo4NnVlT1BLQlE9PQo=",
+      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.3/Erch_0.2.3_x64-setup.exe"
     }
   }
 }
