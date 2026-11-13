@@ -1,0 +1,30 @@
+# Новая версия Erch на странице Releases. Сборка идёт в закрытом репозитории с кодом: она кладёт сюда
+# готовый установщик и latest.json и ставит тег v<версия>; этот workflow делает из них выпуск.
+# Программа узнаёт о версии по releases/latest/download/latest.json и проверяет подпись установщика.
+
+name: Выпуск
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Выпуск на странице Releases
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          EXE="Erch_${VERSION}_x64-setup.exe"
+          test -f "$EXE" && test -f latest.json
+          test "$(jq -r .version latest.json)" = "$VERSION"
+          jq -r .notes latest.json > notes.txt
+          gh release create "$GITHUB_REF_NAME" "$EXE" latest.json \
+            --title "Erch $VERSION" --notes-file notes.txt --latest
