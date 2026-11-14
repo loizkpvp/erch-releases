@@ -23,6 +23,7 @@ objects.githubusercontent.com
 release-assets.githubusercontent.com
 rutube.ru
 sndcdn.com
+soundcloud.cloud
 soundcloud.com
 youtube-nocookie.com
 youtube.com
