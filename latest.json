@@ -1,11 +1,11 @@
 {
-  "version": "0.2.7",
-  "notes": "Исправлены тексты SoundCloud, усилена защита приложения и обновлений.\n\nОграничен доступ к локальным файлам, убраны лишние ресурсы сборки и чтение серверных настроек. Подписанное обновление сохраняет данные и доступно через приложение и сайт.",
-  "pub_date": "2026-11-14T21:58:59Z",
+  "version": "0.2.8",
+  "notes": "Erch 0.2.8: настройки цвета, фото и видеофонов, управление Dynamic Island. Постоянный ник аккаунта. Защищённое хранение входа в Windows. Обновлены правила и конфиденциальность.",
+  "pub_date": "2026-11-14T22:53:51Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZERKelMxaG82Ny9RWmZzWEFhSXlwTzQvQ0lHcGlKK2pLZkFEK3ZmUmxtdHJ6Q2xFUkU0Wkc0K1pQQlZ3TTNDYnVWYWtIRzZTdEcxblRoU1p5aG8zV3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkzNTM1CWZpbGU6RXJjaF8wLjIuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjcKOTFvbStPNk1tYS9NR2lyYkVNaVBPR2ZtRDBVajd2bEhSYTdoNUIyREhic1J2QzdsUTdpdnNmaUc1Q05DV1A0WE1pTTRUOFdYYlhaMnZZeHlmZmN5RFE9PQo=",
-      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.7/Erch_0.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZFB5Z2V2RjNTVis1SXVMMmN1SVJDRjh5Sjg2Uk1VeU5aWXhtR0d0L01vQ1RQdFpPaFlYakhGTnkrMnVSNGx5bFIzYThIdG82TlJvdmFmMkZYVUJ5K3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njk2ODI4CWZpbGU6RXJjaF8wLjIuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjgKTWwzbEllczBWY2lKMU8wRnJFWmVXdXB2cFE5QW9WM0JRaGRNakFyVnM5NmhuaFc4MXNVZS9qRzAzY2hZb0Z6aEQ1WExyeHh0WnU4UGtNUS9kRXdJQlE9PQo=",
+      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.8/Erch_0.2.8_x64-setup.exe"
     }
   }
 }
