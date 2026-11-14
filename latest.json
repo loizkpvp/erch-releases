@@ -1,11 +1,11 @@
 {
-  "version": "0.2.3",
-  "notes": "Новая иконка: чёткая в панели задач, в проводнике и на рабочем столе.",
-  "pub_date": "2026-11-13T14:23:49Z",
+  "version": "0.2.7",
+  "notes": "Исправлены тексты SoundCloud, усилена защита приложения и обновлений.\n\nОграничен доступ к локальным файлам, убраны лишние ресурсы сборки и чтение серверных настроек. Подписанное обновление сохраняет данные и доступно через приложение и сайт.",
+  "pub_date": "2026-11-14T21:58:59Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZEtpS0d1VUdsVk1KRVJjZWxZMERMV2ZzbktuekFYTmxKM0lGRmltc2hLa0djVHJzay92RnVvVDBNdkl5a0I4eTFaWWpjeXd6clJHZHJpaEtHaUptMFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NTc5ODI1CWZpbGU6RXJjaF8wLjIuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjMKSlpCc0pvRDNrL2EwZVhEZ1VXRWhkcFVPRy9QZ2tTMy9OdzhOMjd1ZUhQTDNwV1RsYkFKdExFUFBHektlcGRxMU5SZEsyVHdQL0oyTHo4NnVlT1BLQlE9PQo=",
-      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.3/Erch_0.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZERKelMxaG82Ny9RWmZzWEFhSXlwTzQvQ0lHcGlKK2pLZkFEK3ZmUmxtdHJ6Q2xFUkU0Wkc0K1pQQlZ3TTNDYnVWYWtIRzZTdEcxblRoU1p5aG8zV3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjkzNTM1CWZpbGU6RXJjaF8wLjIuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjcKOTFvbStPNk1tYS9NR2lyYkVNaVBPR2ZtRDBVajd2bEhSYTdoNUIyREhic1J2QzdsUTdpdnNmaUc1Q05DV1A0WE1pTTRUOFdYYlhaMnZZeHlmZmN5RFE9PQo=",
+      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.7/Erch_0.2.7_x64-setup.exe"
     }
   }
 }
