@@ -1,11 +1,11 @@
 {
-  "version": "0.2.8",
-  "notes": "Erch 0.2.8: настройки цвета, фото и видеофонов, управление Dynamic Island. Постоянный ник аккаунта. Защищённое хранение входа в Windows. Обновлены правила и конфиденциальность.",
-  "pub_date": "2026-11-14T22:53:51Z",
+  "version": "0.2.9",
+  "notes": "Компактный округлый полупрозрачный Dynamic Island. Появляется только при сворачивании окна. Убраны служебные подписи из настроек.",
+  "pub_date": "2026-11-15T03:12:31Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZFB5Z2V2RjNTVis1SXVMMmN1SVJDRjh5Sjg2Uk1VeU5aWXhtR0d0L01vQ1RQdFpPaFlYakhGTnkrMnVSNGx5bFIzYThIdG82TlJvdmFmMkZYVUJ5K3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njk2ODI4CWZpbGU6RXJjaF8wLjIuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjgKTWwzbEllczBWY2lKMU8wRnJFWmVXdXB2cFE5QW9WM0JRaGRNakFyVnM5NmhuaFc4MXNVZS9qRzAzY2hZb0Z6aEQ1WExyeHh0WnU4UGtNUS9kRXdJQlE9PQo=",
-      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.8/Erch_0.2.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZEF2Y3l5RDJGSkc0Wm9xRko0MndzUHFMWEk2VVZtbVJGWmhVNkY5ZUJGQStIaGxWOGNrNTNobWtPTGpvZEx5cTFsOGdYQ09XaGZmYmVrSk80eTdmWUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzEyMzQ3CWZpbGU6RXJjaF8wLjIuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjkKaUhLa1NlS3VjMDQwNE9DTWw2S3JPdHROQ2RZRU1CYktROTI4SHdjN1lPNHdGZWF5TFZJeXVRdnZzV0R6OC9ua01TNUxFMWVvaWxaSGM4eFZNZVFrQmc9PQo=",
+      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.9/Erch_0.2.9_x64-setup.exe"
     }
   }
 }
