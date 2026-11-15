@@ -1,11 +1,11 @@
 {
-  "version": "0.2.9",
-  "notes": "Компактный округлый полупрозрачный Dynamic Island. Появляется только при сворачивании окна. Убраны служебные подписи из настроек.",
-  "pub_date": "2026-11-15T03:12:31Z",
+  "version": "0.2.10",
+  "notes": "",
+  "pub_date": "2026-11-15T03:46:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZEF2Y3l5RDJGSkc0Wm9xRko0MndzUHFMWEk2VVZtbVJGWmhVNkY5ZUJGQStIaGxWOGNrNTNobWtPTGpvZEx5cTFsOGdYQ09XaGZmYmVrSk80eTdmWUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzEyMzQ3CWZpbGU6RXJjaF8wLjIuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4yLjkKaUhLa1NlS3VjMDQwNE9DTWw2S3JPdHROQ2RZRU1CYktROTI4SHdjN1lPNHdGZWF5TFZJeXVRdnZzV0R6OC9ua01TNUxFMWVvaWxaSGM4eFZNZVFrQmc9PQo=",
-      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.9/Erch_0.2.9_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZExuREJJZ1JBVytKSStFcEdBZnNicU4zVzRqaUE0c0VoMyt2N0NzcjQ1cXgyYVMzWFlHQmtBdGYveWMzcW5RSGhtbS9HQk1GQmg5dXR6b2FEWm9vOHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzE0Mzc4CWZpbGU6RXJjaF8wLjIuMTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xMApiSTI1QzJaQVJHYnN4TE0yRGdTZTlHZ0NwK29sK3V5QXp0MXdlSUo2TFAwSnVlUmVFaStlQ1M5dnExRnM1UFZnRzM5S2VyN1ZUdmszbG5pYjJmeUpCZz09Cg==",
+      "url": "https://github.com/loizkpvp/erch-releases/releases/download/v0.2.10/Erch_0.2.10_x64-setup.exe"
     }
   }
 }
