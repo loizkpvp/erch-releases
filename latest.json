@@ -1,11 +1,11 @@
 {
-  "version": "0.2.17",
+  "version": "0.2.18",
   "notes": "",
-  "pub_date": "2026-11-18T10:10:06Z",
+  "pub_date": "2026-11-18T11:02:32Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZEtnY3c4NlRHcTJsQlV3a2dBU3IzQzlJYzJiZkpqaVJiV3lvaVBSQXo2WGEzbmllYlE4bTFjS0xYRCtuYUtzeGxFVGVjQ2l6UE1qNHdYTFJCU3VIakFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk2NDY4CWZpbGU6RXJjaF8wLjIuMTdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xNwpuWGJaZUJKYSsrUGRIbTFaVTJWNzIxenlCRjJVK3R0YXN5WXAxS1hRUTNvd3hpSmZNa3h2azRCMEVvK1krZXFucjcwRjZ6RlpqUUY5YXNFblZwYUlDdz09Cg==",
-      "url": "https://github.com/loizkpvp/erch-releases/releases/download/0.2.17/Erch_0.2.17_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSkVGUlQ0TXZ6ZERqcitya0x3bEpxRnNsdFdocG5uVGZHbDZwSzRGS2k4ak80M0p1dGRVanpsaW9oNUMrZXdHcGIzd1RjRS9TcDJZT0FDa0NIdjNVRmN3emFHang3QlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTk5NTUwCWZpbGU6RXJjaF8wLjIuMThfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMi4xOAo1OXVYWjB6K1dIRGs5VUpZQnFRd1p2S2U1czhyRXFzeG04ZjF1K2ZsS0VVNm9qUWd0b2J6SzBabGF6a0RZdUFIK0t2WUF4OWpBbmRQSkFNZWkzSTdCUT09Cg==",
+      "url": "https://github.com/loizkpvp/erch-releases/releases/download/0.2.18/Erch_0.2.18_x64-setup.exe"
     }
   }
 }
