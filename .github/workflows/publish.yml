@@ -25,8 +25,8 @@ jobs:
           EXE="Erch_${VERSION}_x64-setup.exe"
           test -f "$EXE" && test -f "$EXE.sig" && test -f latest.json
           test "$(jq -r .version latest.json)" = "$VERSION"
-          jq -r .notes latest.json > notes.txt
+          jq -e '.notes == ""' latest.json > /dev/null
           test "$(jq -r '.platforms["windows-x86_64"].signature' latest.json)" = "$(cat "$EXE.sig")"
           gh release create "$GITHUB_REF_NAME" "$EXE" "$EXE.sig" latest.json \
-            --title "Erch $VERSION" --notes-file notes.txt --draft
+            --title "Erch $VERSION" --notes "" --draft
           gh release edit "$GITHUB_REF_NAME" --draft=false --latest
