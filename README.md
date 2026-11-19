@@ -8,7 +8,7 @@ Erch ищет музыку в каталогах Deezer и SoundCloud и под�
 
 Плейлист можно собрать в Erch, перенести по ссылке или импортировать из файла. Песни, которых каталог не нашёл, указаны отдельно. Подборкой можно поделиться ссылкой на её сохранённый состав. Erch не загружает аудиофайлы с вашего компьютера на сервер.
 
-[Скачать для Windows](https://github.com/loizkpvp/erch-releases/releases/latest) · [Скачать для Android](https://github.com/loizkpvp/erch-releases/releases/tag/android-0.2.18) · [Сайт Erch](https://erch-seven.vercel.app)
+[Скачать для Windows](https://github.com/loizkpvp/erch-releases/releases/latest) · [Скачать для Android](https://erch-seven.vercel.app/#android-download) · [Сайт Erch](https://erch-seven.vercel.app)
 
 <details>
 <summary>Приложение открывается, но музыка не играет</summary>
